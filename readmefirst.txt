@@ -1,1 +1,1 @@
-Sample file to test the repository
+Sample file to test the repository changes
